@@ -1,5 +1,6 @@
 # 6ees6ees6ees
-> This was a project assigned to me when I was a **student** at *Hack Reactor*. <br />
+> This was a project assigned to me when I was a **student** at *Hack Reactor*. 
+
 ![image](https://user-images.githubusercontent.com/76498304/117228564-27f26f80-adce-11eb-9c35-f23bf1d24f88.png)
 
 ### Pseudoclassical bees - get ready to learn some science ###
